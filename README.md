@@ -1,1 +1,2 @@
-A simple task tracker made using CSS and HTML
+#Task-Tracker
+Simple task tracker cards made using CSS and HTML
